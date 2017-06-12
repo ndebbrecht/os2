@@ -1,0 +1,3 @@
+gcc Aufgabe.c socket.c -lpthread -o Aufgabe
+
+./Aufgabe testSites.txt
